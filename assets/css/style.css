@@ -748,7 +748,7 @@ body {
 }
 
 .footer-top {
-  display: grid;
+/*   display: grid; */
   gap: 30px;
 }
 
